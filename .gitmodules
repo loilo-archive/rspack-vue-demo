@@ -1,0 +1,8 @@
+[submodule "plugins/unplugin-vue-components"]
+	path = plugins/unplugin-vue-components
+	url = https://github.com/loilo/unplugin-vue-components.git
+	branch = add-rspack-support
+[submodule "plugins/unplugin-auto-import"]
+	path = plugins/unplugin-auto-import
+	url = https://github.com/loilo/unplugin-auto-import.git
+	branch = add-rspack-support

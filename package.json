@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "serve": "rspack serve",
+    "dev": "rspack build --mode=development --watch",
+    "build": "rspack build --mode=production",
+    "preview": "rspack preview dist/"
+  },
+  "devDependencies": {
+    "@rspack/cli": "^0.1.12",
+    "vue": "^3.3.4",
+    "vue-loader": "^17.1.1",
+    "unplugin-auto-import": "file:./plugins/unplugin-auto-import",
+    "unplugin-vue-components": "file:./plugins/unplugin-vue-components"
+  }
+}
