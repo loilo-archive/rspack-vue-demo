@@ -4,10 +4,10 @@ This is a demo of [Rspack](https://rspack.dev) bundling a Vue project using [vue
 
 ## Setup
 
-1. Clone this repository (with the `--recursive` flag to get the forked dependencies which are included as submodules in the `plugins/` folder).
+1. Clone this repository:
 
    ```sh
-   git clone --recursive https://github.com/loilo/rspack-vue-demo.git
+   git clone https://github.com/loilo/rspack-vue-demo.git
    ```
 
 2. Install dependencies:
